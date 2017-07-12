@@ -23,7 +23,9 @@
 					<td>Siamese</td>
 					<td>German Shepard</td>
 				</tr>
-			<h2>A Few of My Favorite Things</h2>
+			</table>
+
+		<h2>A Few of My Favorite Things</h2>
 				<ul>
 					<li>Tacos</li>
 					<li>Bugers</li>
@@ -35,6 +37,8 @@
 					<li>Pull weeds</li>
 					<li>Sleep</li>
 				</ol>
-			</table>
+
+		<h2>I don't <3 Pikachu</h2>
+		<img src="Images/nopic.png" alt="pic of no pikachu">
 	</body>
 </html>
