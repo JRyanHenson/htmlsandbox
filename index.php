@@ -5,6 +5,36 @@
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
-			<h1>This is my webpag!</h1>
+			<h1>This is my webpage!</h1>
+			<table>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Persian</td>
+					<td>Beagle</td>
+				</tr>
+				<tr>
+					<td>Maine Coon</td>
+					<td>Rotweiler</td>
+				</tr>
+				<tr>
+					<td>Siamese</td>
+					<td>German Shepard</td>
+				</tr>
+			<h2>A Few of My Favorite Things</h2>
+				<ul>
+					<li>Tacos</li>
+					<li>Bugers</li>
+					<li>Biking</li>
+				</ul>
+			<h2>Things To Do</h2>
+				<ol>
+					<li>Clean the house</li>
+					<li>Pull weeds</li>
+					<li>Sleep</li>
+				</ol>
+			</table>
 	</body>
 </html>
